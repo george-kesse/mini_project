@@ -434,6 +434,7 @@ span{
     .home-img img{
         width: 70vw;
         margin-top: 4rem;
+        align-items: center;
     }
 
     .about{
@@ -475,7 +476,8 @@ span{
 
 @media (max-width:365px) {
     .home-img img{
-        width: 90vw;
+        width: 50vw;
+        height: 50vw;
     }
     .about-img img{
         width: 90vw;
